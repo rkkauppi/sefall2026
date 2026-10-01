@@ -11,6 +11,7 @@ A GM (game manager) leading Lasers and Feelings session needs a software to help
 
 # Dictionary
 GM: A person managing a Lasers and Feelings session.
+Dice throw: Gives a random number between 1 to 6.
 
 # Requirements
 Requirements are written here as user stories and they are in priority order and they are in Sprint backlogs and in Product backlog.
