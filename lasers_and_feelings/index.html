@@ -6,6 +6,15 @@
     <title>Lasers and Feelings Tool</title>
 </head>
 <body>
-    <p>This is a template for the tool web page.</p>
+    <button onClick="throwDice();" type="button">Throw</button>
+    <p>Result: </p>
+    <p id="result"></p>
+
+    <script>
+        function throwDice() {
+            let result = Math.floor((Math.random() * 6) + 1);
+            document.getElementById("result").innerText = result;
+        }
+    </script>
 </body>
 </html>
