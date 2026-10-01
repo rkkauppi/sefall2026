@@ -38,4 +38,5 @@ None.
 
 - (Not started) As a player, I want to be able to give my character a name, because I want to immersed into the game.
 
-
+# Data
+- Result: Result from the latest dice throw. The value is 1, 2, 3, 4, 5, or 6.
