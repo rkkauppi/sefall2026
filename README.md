@@ -42,3 +42,6 @@ None.
 
 # Data
 - Result: Result from the latest dice throw. The value is 1, 2, 3, 4, 5, or 6.
+- Character name: Cool space name such as Jim Powers.
+- Character style: One of Alien, Android, Dangerous, Heroic, Hot-Shot, Intrepid or Savvy. 
+- Character role: One of Doctor, Envoy, Engineer, Explorer, Pilot, Scientist, or Soldier.
