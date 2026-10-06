@@ -36,7 +36,10 @@ None.
 
 - (Done) As a player, I want to be able to throw a dice, because the result of the throw determines if I succeed or not in whatever I am trying to do.
 
+## Sprint 2 backlog
+
 - (Not started) As a player, I want to be able to give my character a name, because I want to immersed into the game.
+
 
 # Data
 - Result: Result from the latest dice throw. The value is 1, 2, 3, 4, 5, or 6.
